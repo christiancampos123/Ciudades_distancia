@@ -1,0 +1,7 @@
+x		Barcelona 	Gerona 	Lérida 	Tarragona 	Zaragoza 	Teruel
+Barcelona 	x		100 	156 	98 		296 		409
+Gerona 		x		x	256 	198 		396 		509
+Lérida		x		x	x	91 		140 		319
+Tarragona 	x		x	x	x		231 		311
+Zaragoza 	x		x	x	x		x		181
+Teruel		x		x	x	x		x		x
